@@ -1,2 +1,2 @@
 # training
-SAP_training_session
+This is the readme file for our training !
